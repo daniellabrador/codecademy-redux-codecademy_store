@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/codecademy-redux-codecademy_store/static/css/main.f94e693d.chunk.css",
+    "main.js": "/codecademy-redux-codecademy_store/static/js/main.8af10e18.chunk.js",
+    "main.js.map": "/codecademy-redux-codecademy_store/static/js/main.8af10e18.chunk.js.map",
+    "runtime-main.js": "/codecademy-redux-codecademy_store/static/js/runtime-main.12f294b9.js",
+    "runtime-main.js.map": "/codecademy-redux-codecademy_store/static/js/runtime-main.12f294b9.js.map",
+    "static/js/2.c82c60f1.chunk.js": "/codecademy-redux-codecademy_store/static/js/2.c82c60f1.chunk.js",
+    "static/js/2.c82c60f1.chunk.js.map": "/codecademy-redux-codecademy_store/static/js/2.c82c60f1.chunk.js.map",
+    "static/js/3.244453e4.chunk.js": "/codecademy-redux-codecademy_store/static/js/3.244453e4.chunk.js",
+    "static/js/3.244453e4.chunk.js.map": "/codecademy-redux-codecademy_store/static/js/3.244453e4.chunk.js.map",
+    "index.html": "/codecademy-redux-codecademy_store/index.html",
+    "static/css/main.f94e693d.chunk.css.map": "/codecademy-redux-codecademy_store/static/css/main.f94e693d.chunk.css.map",
+    "static/js/2.c82c60f1.chunk.js.LICENSE.txt": "/codecademy-redux-codecademy_store/static/js/2.c82c60f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12f294b9.js",
+    "static/js/2.c82c60f1.chunk.js",
+    "static/css/main.f94e693d.chunk.css",
+    "static/js/main.8af10e18.chunk.js"
+  ]
+}
