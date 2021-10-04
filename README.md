@@ -1,6 +1,6 @@
 # **Codecademy Store**
 
-Codecademy Store displays products and allows the user to add products to their cart, and update quantity of the items chosen. This app is a [Codecademy](https://www.codecademy.com/learn/react-101) project intended to enhance my skills on the use of Core Redux API.
+Codecademy Store displays products and allows the user to add products to their cart, and update quantity of the items chosen. This app is a [Codecademy](https://www.codecademy.com/learn/learn-redux) project intended to enhance my skills on the use of Core Redux API.
 
 ## Table of Contents
 
