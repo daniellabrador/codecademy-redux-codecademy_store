@@ -1,4 +1,5 @@
 import React from 'react';
+import { BrowserRouter as Router } from 'react-router-dom';
 import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
@@ -9,12 +10,14 @@ import { store } from './app/store';
 // Pass state and dispatch props to the <App /> component.
 const render = () => {
   ReactDOM.render(
-    <React.StrictMode>
-    <App 
-      state={store.getState()}
-      dispatch={store.dispatch}
-    />
-    </React.StrictMode>,
+    <Router basename="/codecademy-redux-codecademy_store">
+      <React.StrictMode>
+      <App 
+        state={store.getState()}
+        dispatch={store.dispatch}
+      />
+      </React.StrictMode>
+    </Router>,
     document.getElementById('app')
   )
 };
